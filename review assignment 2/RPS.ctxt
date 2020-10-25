@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RPS
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printIntro()
+comment3.params=
+comment3.target=void\ getHumanChoice()
+comment4.params=
+comment4.target=void\ getComputerChoice()
+comment5.params=
+comment5.target=void\ printChoices()
+comment6.params=
+comment6.target=void\ calculateWinner()
+comment7.params=
+comment7.target=boolean\ wantToPlayAgain()
+comment8.params=
+comment8.target=void\ printStats()
+numComments=9
